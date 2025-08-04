@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![programer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03Z3E5eXhqazZ2ZXZ5cXEwM2lqcHhjNTloN3pyN29ucm5veXlkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif)
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">My Skills</h1>
 
 ###
 
