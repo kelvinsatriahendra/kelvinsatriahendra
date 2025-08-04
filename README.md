@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Kelvin Satria Hendra 👋
+
+![kelvinsatriahendra](img/image.png)
 
 <!--
 **kelvinsatriahendra/kelvinsatriahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🔭 I'm currently working on a simple web application using pure PHP and MySQL.
+🌱 I'm currently learning the Laravel framework and the Go programming language.
+
+![programer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03Z3E5eXhqazZ2ZXZ5cXEwM2lqcHhjNTloN3pyN29ucm5veXlkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif)
