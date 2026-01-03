@@ -2,30 +2,12 @@
 
 ![kelvinsatriahendra](img/github-header-banner%20(2).png)
 
-<!--
-**kelvinsatriahendra/kelvinsatriahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 🔭 I'm currently working on a simple web application using pure PHP and MySQL.
 🌱 I'm currently learning the Laravel framework and the Go programming language.
 
 ![programer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03Z3E5eXhqazZ2ZXZ5cXEwM2lqcHhjNTloN3pyN29ucm5veXlkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tx8UtrSC02lXO/giphy.gif)
 
 <h1 align="center">My Skills</h1>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
@@ -58,9 +40,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/kelvinsatria_hendra?igsh=aHlxam8xYnhhMWt0&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://wa.me/6282335791705" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:kelvintut304@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -70,5 +58,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelvinsatriahendra/kelvinsatriahendra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kelvinsatriahendra/kelvinsatriahendra/output/pacman-contribution-graph.svg">
 </picture>
-
-###
